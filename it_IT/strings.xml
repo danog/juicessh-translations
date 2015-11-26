@@ -14,9 +14,9 @@
     <string name="signin">Accesso in corso…</string>
     <string name="new_connection">Nuova Connessione</string>
     <string name="save">Salva</string>
-    <string name="you_must_select_an_identity">Devi selezionare un'identità</string>
+    <string name="you_must_select_an_identity">Devi selezionare un\'identità</string>
     <string name="you_must_enter_an_address">Devi inserire un indirizzo</string>
-    <string name="choose_an_identity">Scegli un'identità</string>
+    <string name="choose_an_identity">Scegli un\'identità</string>
     <string name="edit">Modifica</string>
     <string name="share">Condividi</string>
     <string name="remove">Rimuovi</string>
@@ -32,7 +32,7 @@
     <string name="name">Nome:</string>
     <string name="add_team_member">Aggiungi un membro nella squadra</string>
     <string name="invite_user">Invita nella squadra</string>
-    <string name="enter_users_email_address_to_invite">Prego inserire l'indirizzo email della persona che vuoi invitare:</string>
+    <string name="enter_users_email_address_to_invite">Prego inserire l\'indirizzo email della persona che vuoi invitare:</string>
     <string name="you_must_enter_a_team_name">Devi scegliere un nome per la squadra</string>
     <string name="not_set">Non impostato</string>
     <string name="password_colon">Password: </string>
@@ -94,7 +94,7 @@
     <string name="enter_password">Per favore inserisci la tua password:</string>
     <string name="remember_password">Ricorda la password</string>
     <string name="show_password">Mostra la password</string>
-    <string name="unabled_to_connect_to_host">Impossibile connettersi all'host</string>
+    <string name="unabled_to_connect_to_host">Impossibile connettersi all\'host</string>
     <string name="form_nickname">Nick: </string>
     <string name="form_optional">(Facoltativo)</string>
     <string name="form_address">Indirizzo: </string>
@@ -127,7 +127,7 @@
     <string name="youve_not_connected_yet">Non sei ancora connesso a nessun server.\nClicca il pulsante connessioni qui sotto per iniziare.</string>
     <string name="clear_history">Calnella la cronologia</string>
     <string name="sorry">Scusa!</string>
-    <string name="a_serious_error_occurred">'È stato riscontrato un grave errore e JuiceSSH necessita di essere riavviato</string>
+    <string name="a_serious_error_occurred">\'È stato riscontrato un grave errore e JuiceSSH necessita di essere riavviato</string>
     <string name="please_select_a_team_member_to_invite">Per favore selezione un membro della squadra da invitare.</string>
     <string name="enter_new_team_name">Per favore inserisci un nuovo nome per la squadra \'%s\'</string>
     <string name="are_you_sure_you_want_to_delete_team">Sei sicuro di voler eliminare la squadra \'%s\'?</string>
@@ -266,8 +266,8 @@
     <string name="ec2exception_uncaught_reason">Sconosciuto</string>
     <string name="ec2exception_api_certificate_error">Errore nel certificato delle API</string>
     <string name="ive_already_purchased">Già acquistato</string>
-    <string name="thanks_for_purchasing">Grazie per aver comprato JuiceSSH Pro.\nPer favore seleziona l'account Google al quale vuoi associare il pagamento:</string>
-    <string name="select_associated_account">Per favore seleziona l'account Google al quale hai associato il pagamento:</string>
+    <string name="thanks_for_purchasing">Grazie per aver comprato JuiceSSH Pro.\nPer favore seleziona l\'account Google al quale vuoi associare il pagamento:</string>
+    <string name="select_associated_account">Per favore seleziona l\'account Google al quale hai associato il pagamento:</string>
     <string name="rate_us">Recensiscici</string>
     <string name="it_really_helps">Mostra il tuo apprezzamento se ti piace l\'app!</string>
     <string name="website">Sito web</string>
@@ -277,7 +277,7 @@
     <string name="there_are_no_browsers_available">Non ci sono Browser disponibili al momento</string>
     <string name="create_snippet">Crea un frammento</string>
     <string name="share_transcript">Condividi la trascrizione</string>
-    <string name="select_application_to_share_with">Seleziona l'applicazione con la quale condividere:</string>
+    <string name="select_application_to_share_with">Seleziona l\'applicazione con la quale condividere:</string>
     <string name="no_capable_apps_found">Non ho trovatto nessuna applicazione che potesse soddisfare i requisiti</string>
     <string name="unlock_pro_version">Sblocca la versiona Pro!</string>
     <string name="unlock_pro_version_capitals">Sblocca le funzioni Pro</string>
@@ -291,7 +291,7 @@
     <string name="tutorial">Tutorial</string>
     <string name="use_the_volume">Utilizza il bilanciare del volume per modificare la dimensione dei caratteri al volo.</string>
     <string name="popup_keyboard">Mostra la tastiera</string>
-    <string name="tap_the_terminal">Tocca il terminale per mostrare una tastiera contentente tutti i caratteri normalmente diffici da trovare (Ctrl, freccie etc). Effettua un gesto verso destra per abilitare/disabilitare l'auto-completamento (utile per IRC etc).</string>
+    <string name="tap_the_terminal">Tocca il terminale per mostrare una tastiera contentente tutti i caratteri normalmente diffici da trovare (Ctrl, freccie etc). Effettua un gesto verso destra per abilitare/disabilitare l\'auto-completamento (utile per IRC etc).</string>
     <string name="copy_paste_share_save">Copia &amp; Incolla / Salva la trascrizione / Nascondi la tastiera</string>
     <string name="long_press_the_terminal">Mantieni premuto il terminale per &amp; incollare e condividere o salvare la trascrizione della tua sessione.</string>
     <string name="ok_i_got_it">OK - Ho capito!</string>
@@ -488,7 +488,7 @@
     <string name="generating_key">Generando la chiave…</string>
     <string name="export_public_key">Esporta la chiave pubblica</string>
     <string name="export_private_key">Esporta la chiave privata</string>
-    <string name="identity_has_no_key_to_export">L'identità non ha chiavi da esportare</string>
+    <string name="identity_has_no_key_to_export">L\'identità non ha chiavi da esportare</string>
     <string name="unable_to_export_key">Errore: impossbile trovare la chiave da esportare</string>
     <string name="share_using">Condividi usando:</string>
     <string name="juicessh_public_key">JuiceSSH: Chiave pubblica</string>
