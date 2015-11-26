@@ -94,7 +94,7 @@
     <string name="enter_password">Per favore inserisci la tua password:</string>
     <string name="remember_password">Ricorda la password</string>
     <string name="show_password">Mostra la password</string>
-    <string name="unabled_to_connect_to_host">Impossibile connettersi al\'host</string>
+    <string name="unabled_to_connect_to_host">Impossibile connettersi al host</string>
     <string name="form_nickname">Nick: </string>
     <string name="form_optional">(Facoltativo)</string>
     <string name="form_address">Indirizzo: </string>
@@ -200,7 +200,7 @@
     <string name="snippet_saved">Frammento salvato</string>
     <string name="host_verification">Verifica dell\'host</string>
     <string name="this_is_the_first_time_youve_connected">Questa sembra essere la prima volta che ti connetti a %1$s.\n\nChiave dell\'host:\n%2$s\n\nDesideri accettare la chiave?</string>
-    <string name="host_key_changed">Attenzione! La chiave pubblica per %1$s è cambiata. Questo è normale se hai sostituito il server, tuttavia se tu non hai modificato nulla potresti essere oggetto di un attacco "Man-in-te-Middle".\n\nNuova chiave: %2$s\n\nDesideri accettare la chiave?</string>
+    <string name="host_key_changed">Attenzione! La chiave pubblica per %1$s è cambiata. Questo è normale se hai sostituito il server, tuttavia se tu non hai modificato nulla potresti essere oggetto di un attacco "Man-in-the-Middle".\n\nNuova chiave: %2$s\n\nDesideri accettare la chiave?</string>
     <string name="clear_snippets">Pulisci i frammenti</string>
     <string name="are_you_sure_you_want_to_clear_your_snippets">Sei siculo di voler eliminare i frammenti?</string>
     <string name="nothing_to_clear">Niente da eliminare</string>
