@@ -95,12 +95,12 @@
     <string name="remember_password">Ricorda la password</string>
     <string name="show_password">Mostra la password</string>
     <string name="unabled_to_connect_to_host">Impossibile connettersi all'host</string>
-    <string name="form_nickname">Username: </string>
+    <string name="form_nickname">Nick: </string>
     <string name="form_optional">(Facoltativo)</string>
     <string name="form_address">Indirizzo: </string>
     <string name="form_port">Porta: </string>
     <string name="form_22">22</string>
-    <string name="form_connect_via">Connettiti Attraverso: </string>
+    <string name="form_connect_via">Connettiti tramite: </string>
     <string name="form_identity">Identità: </string>
     <string name="accept">Accetta</string>
     <string name="reject">Rifiuta</string>
@@ -109,7 +109,7 @@
     <string name="X">X</string>
     <string name="you_do_not_have_any_connections">Non disponi ancora di nessuna connessione configurata. Utilizza il bottone sottostante per iniziare.</string>
     <string name="no_connections">Nessuna Connessione</string>
-    <string name="you_do_not_have_any_identities">Non disponi di nessuna identità configurata. Le identità sono composte da nome utente, password e/o chiave privatache può essere usata da più connessioni.</string>
+    <string name="you_do_not_have_any_identities">Non disponi di nessuna identità configurata. Le identità sono composte da nome utente, password e/o chiave privata che può essere usata da più connessioni.</string>
     <string name="no_identities">Nessuna Identità</string>
     <string name="leave_team">Lascia la squadra</string>
     <string name="rename_team">Rinomina la squadra</string>
@@ -127,8 +127,8 @@
     <string name="youve_not_connected_yet">Non sei ancora connesso a nessun server.\nClicca il pulsante connessioni qui sotto per iniziare.</string>
     <string name="clear_history">Calnella la cronologia</string>
     <string name="sorry">Scusa!</string>
-    <string name="a_serious_error_occurred">'È stato riscontrato un grave errore e  JuiceSSH necessita di essere riavviato</string>
-    <string name="please_select_a_team_member_to_invite">Perfavore selezione un membro della squadra da invitare.</string>
+    <string name="a_serious_error_occurred">'È stato riscontrato un grave errore e JuiceSSH necessita di essere riavviato</string>
+    <string name="please_select_a_team_member_to_invite">Per favore selezione un membro della squadra da invitare.</string>
     <string name="enter_new_team_name">Perfavore inserisci un nuovo nome per la squadra \'%s\'</string>
     <string name="are_you_sure_you_want_to_delete_team">Sei sicuro di voler eliminare la squadra \'%s\'?</string>
     <string name="team_member">Membro della squadra</string>
