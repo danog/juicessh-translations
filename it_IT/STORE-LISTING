@@ -14,8 +14,8 @@ Caratteristiche:
 - Tantissimi temi per terminale quali: Scuro, Chiaro, Hacker anni '80, Molokai, Solarizzato Scuro e Solarizzato chiaro!
    Cliccate qui (http://ethanschoonover.com/solarized) per una descrizione dello schema di colori solarizzato e perché è così bello in un terminale.
 - Clicca sugli URL per aprirli in un browser!
-- Puoi copiare e incollare il testo durante le sessioni!
-- Salva e condividi le trascrizioni delle sessioni in dropbox/evernote, inviali via Email o salvali sulla scheda SD!
+- Puoi copiare e incollare testo durante le sessioni!
+- Salva e condividi le trascrizioni delle sessioni in dropbox/evernote, inviale via Email o salvale sulla scheda SD!
 - Supporto dei caratteri UTF-8!
 - Organizza facilmente le connessioni in gruppi!
 - Puoi tenere aperte tante sessioni in background!
@@ -32,7 +32,7 @@ Caratteristiche:
 
 Caratteristiche Pro (Acquisto in-app opzionale):
 - Veloci e semplici forwarding di porte che possono essere aperti dall'applicazione o, se necessario, nel browser.
-- Integrazione con Amazon AWS / EC2, sincronizza connessioni e raggruppa automaticamente connessioni basandosi sulle classi e sui gruppi di sicurezza.
+- Integrazione con Amazon AWS / EC2, sincronizzazione connessioni e raggruppamento automatico connessioni basato sulle classi e sui gruppi di sicurezza.
 - Sicronizza tutti i dati in sicurezza tra dispositivi.
 - Backup automatici encrittati con AES-256 di tutte le tue connessioni ed impostazioni.
 - Un bel widget per accedere rapidamente alle connesioni più usate o ad un gruppo (Android 3.0+)
